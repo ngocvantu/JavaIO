@@ -11,7 +11,7 @@ public class StreamCopier {
 		int numByteRead = 0;
 		synchronized (in) {
 			synchronized (out) {
-				byte[] buffer = new byte[256];
+				byte[] buffer = new byte[256]; 
 				while (true) {
 					int byteRead = in.read(buffer);
 					numByteRead += byteRead;
