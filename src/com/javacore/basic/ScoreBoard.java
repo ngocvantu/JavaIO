@@ -9,6 +9,8 @@ public class ScoreBoard {
 	}
 	
 	public void add(GameEntries entries){
-		
+		if (numEntries < board.length) {
+			
+		}
 	}
 }
