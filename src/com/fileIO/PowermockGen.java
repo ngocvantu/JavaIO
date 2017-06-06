@@ -13,13 +13,27 @@ public class PowermockGen {
 		ArrayList<String> mockObject = new ArrayList<>();
 
 		String line;
+		int i = 1;
 		while ((line = bufferedReader.readLine()) != null) {
-			String words[] = line.split(" ");
-			for (String string : words) {
-				System.out.println(string.trim() + " " + string.trim().toLowerCase() + " = " + 
-			"PowerMockito.mock(" + string.trim() + ".class)");
-				mockObject.add(string.trim());
+			if (i == 1) {
+				String words[] = line.split(" ");
+				for (String string : words) {
+					if (!string.trim().equals("")) {
+						System.out.println(string.trim() + " " + string.trim().toLowerCase() + " = " + 
+								"PowerMockito.mock(" + string.trim() + ".class);");
+									mockObject.add(string.trim());
+					}
+				}
+			} else { // static mock
+				String words[] = line.split(" ");
+				for (String string : words) {
+					if (!string.trim().equals("")) {
+						System.out.println( "PowerMockito.mockStatic(" + string.trim() + ".class);");
+									mockObject.add(string.trim());
+					}
+				}
 			}
+			i++;
 		}
 		
 		fileReader.close();

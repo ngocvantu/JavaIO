@@ -1,1 +1,2 @@
-ManagedObjectReference InvalidDatastoreFaultMsg VimUtils
+ManagedObjectReference      InvalidDatastoreFaultMsg
+ VimUtils
