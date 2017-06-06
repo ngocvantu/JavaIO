@@ -14,6 +14,7 @@ public class PowermockGen {
 
 		String line;
 		int i = 1;
+		System.out.println("//---------------Mocking objects------------------");
 		while ((line = bufferedReader.readLine()) != null) {
 			if (i == 1) {
 				String words[] = line.split(" ");
