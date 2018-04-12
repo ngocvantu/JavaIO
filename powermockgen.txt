@@ -1,6 +1,15 @@
-ManagedObjectReference      InvalidDatastoreFaultMsg
+ManagedObjectReference   asdfasdf   InvalidDatastoreFaultMsg
  VimUtils
 dasfasdf
+
+1200///
 asdfasdfsadf
+chao chao
+chao asdf
 sadfsadfasd
 asdfsdafsdaf
+
+asdfasdfsadfasdadsfasdfdsf
+12asdf11
+2121
+212
