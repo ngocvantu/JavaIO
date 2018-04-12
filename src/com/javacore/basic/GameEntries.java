@@ -3,6 +3,7 @@ package com.javacore.basic;
 public class GameEntries {
 	private String name;
 	private int score;
+	private String chao;
 	
 	public GameEntries(String n, int s) {
 		name = n;
