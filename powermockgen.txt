@@ -1,2 +1,6 @@
 ManagedObjectReference      InvalidDatastoreFaultMsg
  VimUtils
+dasfasdf
+asdfasdfsadf
+sadfsadfasd
+asdfsdafsdaf
