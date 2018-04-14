@@ -6,10 +6,10 @@ dasfasdf
 
 asdf
 12  00/// dafsd sua sua
-asdfa  sdfsadf asdfasdf sdafasd
+asdfa  sdfsadf asdfasdf sdafasd chao
 chao chao
-chao asdf   
-sadfsadfasd
+chao asdf   					chao
+sadfsadfasd khong the nao chao
 asdfsdafsdaf
 aadsfasdf
 asdfasdfsadfasdadsfasdfdsf
@@ -21,3 +21,6 @@ asdfasdf
 asdjfha
 chao
  dfghdfghddghd
+
+
+asdlkfjal;sdkfja;sdlkfjasl;dkfjasl;dkf
