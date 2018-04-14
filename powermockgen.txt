@@ -1,19 +1,2 @@
 ManagedObjectReference   asdfasdf  asdf  InvalidDatastoreFaultMsg
- VimUtils
-dasfasdf
-
-aaa
-asdf
-12  00/// dafsd sua sua
-asdfa  sdfsadf asdfasdf sdafasd
-chao chao
-chao asdf
-sadfsadfasd
-asdfsdafsdaf
-aadsfasdf
-asdfasdfsadfasdadsfasdfdsf
-12asdf11
-2121
-212
-
-asdfasdf
+ 
