@@ -1,4 +1,4 @@
-ManagedObjectReference   asdfasdf  asdf  InvalidDatastoreFaultMsg
+ 
 khong the nao (chao)
  VimUtils
 dasfasdf
@@ -23,4 +23,4 @@ chao
  dfghdfghddghd
 
 
-asdlkfjal;sdkfja;sdlkfjasl;dkfjasl;dkf
+ 
